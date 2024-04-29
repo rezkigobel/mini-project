@@ -1,0 +1,19 @@
+{
+    "namaToko": "Toko Buku Haji Usman",
+    "pengarang": "Ronaldo",
+    "alamat": "Jl. Sukapura No. 123",
+    "buku": [
+        {
+            "judul": "Perang Terakhir",
+            "tahunTerbit": 2020
+        },
+        {
+            "judul": "Matahari",
+            "tahunTerbit": 2021
+        },
+        {
+            "judul": "Peaky Blinders",
+            "tahunTerbit": 2022
+}
+]
+}
